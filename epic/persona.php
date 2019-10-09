@@ -11,11 +11,11 @@
 <h1>PERSONA</h1>
 <ol>
 	<li>Owns a Salon.</li>
-	<li>She keeps her calender full normally.</li>
-	<li>Sometimes, customer cancel causing Rene to have a few unproductive hours.</li>
-	<li>Is a big facebook user, and likes to post the hair styles that been done on the clients.</li>
-	<li>Has very own website.</li>
-	<li>Customers go to her facebook page to request an appointment.</li>
+	<li>She is an outgoing person that always has a bright smile on her face.</li>
+	<li>Sometimes, customer cancel causing Rene to have a few unproductive hours witch frustrates her.</li>
+	<li>She is a big facebook user, and likes to post the hair styles that been done on the clients.</li>
+	<li>She had a website built and wants to get more use out of it.</li>
+	<li>Her hobbies are cooking and writing poetry.</li>
 </ol>
 <img src="InJoyU.jpg" alt="pic of InjoyU website">
 <a href="index.php">Back Home</a>
