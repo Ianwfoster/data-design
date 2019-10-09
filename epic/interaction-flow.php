@@ -9,8 +9,7 @@
 
 <body>
 <h1>Interaction Flow</h1>
-<p> Rene is having trouble with booking customers. Customers who cancel leave her with a lot of unproductive time.
-She needs a way to book customers to fill the empty canceled appointments. </p>
+
 <ul>
 	<li>Login to facebook page for Salon</li>
 	<li> Finds InJoy U Salon Page </li>
