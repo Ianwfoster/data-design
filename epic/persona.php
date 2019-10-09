@@ -17,7 +17,7 @@
 	<li>Has very own website.</li>
 	<li>Customers go to her facebook page to request an appointment.</li>
 </ol>
-
+<img src="https://www.facebook.com/EnJ.OTR/photos/a.589853767701776/62193943449320" alt="pic of Rene">
 <a href="index.php">Back Home</a>
 </body>
 </html>
