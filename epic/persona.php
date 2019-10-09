@@ -10,7 +10,7 @@
 
 <h1>PERSONA</h1>
 <ol>
-	<li>Owns a Salon.</li>
+	<li>Rene is a proud owner of her Salon.</li>
 	<li>She is an outgoing person that always has a bright smile on her face.</li>
 	<li>Sometimes, customer cancel causing Rene to have a few unproductive hours witch frustrates her.</li>
 	<li>She is a big facebook user, and likes to post the hair styles that been done on the clients.</li>
