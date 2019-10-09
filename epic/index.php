@@ -15,7 +15,7 @@
 	<a href="conceptual-model.php">Coceptual Model</a><br>
 
 
-<img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/10429415_724411424329460_8152234610951661796_n.jpg?_nc_cat=110&_nc_oc=AQmBarCO9ZdmcmlQ0dSJqTU4iHE8SELSoqgnLyVARNQkg6egZf5rmgQumKqQiWC6Gzc&_nc_ht=scontent-dfw5-2.xx&oh=4d2090030d153a7a7007abb2151e9775&oe=5E3D048E" alt="pic of Rene">
+<img src="InjoyU.pdf" alt="pic of InjoyU website">
 
 </body>
 </html>
