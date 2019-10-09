@@ -15,7 +15,7 @@
 	<a href="conceptual-model.php">Coceptual Model</a><br>
 
 
-<img src="InjoyU.pdf" alt="pic of InjoyU website">
+<img src="InJoyU.jpg" alt="pic of InjoyU website">
 
 </body>
 </html>
