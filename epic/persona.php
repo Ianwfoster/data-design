@@ -17,7 +17,7 @@
 	<li>She had a website built and wants to get more use out of it.</li>
 	<li>Her hobbies are cooking and writing poetry.</li>
 </ol>
-<img src="InJoyU.jpg" alt="pic of InjoyU website">
+<img src="InJoyU.jpg" alt="pic of InjoyU website"><br>
 <a href="index.php">Back Home</a>
 </body>
 </html>
