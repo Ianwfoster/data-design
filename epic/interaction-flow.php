@@ -26,6 +26,12 @@
 	<li>Submit anointment.</li>
 	<li>User will receive a confirmation email within 30 minutes.</li>
 </ul>
+
+	<h3>Relations</h3>
+<ul>
+	<li>One <strong>Profile</strong>can <strong>Book</strong> Multiple <strong>Appointments</strong> </li>
+	<li>Multiple <strong>Accounts</strong> can be <strong>Booked</strong> by mulitipule <strong>Profiles</strong></li>
+</ul>
 <a href="index.php">Back Home</a>
 </body>
 </html>
