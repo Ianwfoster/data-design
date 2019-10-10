@@ -25,14 +25,14 @@
 	</ul>
 		<h3>Appointment</h3>
 	<ul>
-		<li>ProfileId (foreign key)</li>
+		<li>profileId (foreign key)</li>
 		<li>calendarId (foreign key)</li>
 	</ul>
 
 <h3>Relations</h3>
 <ul>
 	<li>One <strong>Profile</strong> can <strong>Book</strong> One <strong>Appointments.</strong> </li>
-	<li>Multiple <strong>Profiles</strong> can be <strong>Booked</strong> by mulitipule <strong>Profiles.</strong></li>
+	<li>Multiple <strong>Calendar</strong> events can be <strong>Booked</strong> by mulitipule <strong>Profiles.</strong></li>
 </ul>
 
 <a href="https://injoyusalon.com">InJoy U Salon LLC</a><br>
