@@ -10,7 +10,7 @@
 <body>
 	<h1>PERSONA</h1>
 
-			<p>Rene is a proud owner of her Salon.<br>
+			<p>Rene is a proud owner of her Salon. She owns a Samsung Galaxy Note 8.<br>
 				She is an outgoing person that always has a bright smile on her face.<br>
 				Rene uses facebook alot, and  she <em>loves</em> to post the hair styles that been done on the clients.<br>
 				In her spare time she likes to pick up a  good book to read, do a little cooking and writing poetry.<br>
