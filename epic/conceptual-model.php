@@ -35,7 +35,7 @@
 
 <h3>Relations</h3>
 <ul>
-	<li>One <strong>Profile</strong>can <strong>Book</strong> Multiple <strong>Appointments</strong> </li>
+	<li>One <strong>Profile</strong> can <strong>Book</strong> Multiple <strong>Appointments</strong> </li>
 	<li>Multiple <strong>Accounts</strong> can be <strong>Booked</strong> by mulitipule <strong>Profiles</strong></li>
 </ul>
 
