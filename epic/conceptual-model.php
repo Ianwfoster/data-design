@@ -14,29 +14,25 @@
 		<li>ProfileId (primary key)</li>
 		<li>ProfileActivation  (for account verification)</li>
 		<li>profileEmail</li>
-		<li>profileHash (for account password)</li>
-		<li>profilePhone</li>
+		<li>profilePhoneNumber</li>
 	</ul>
 
-		<h3>Booking</h3>
+		<h3>Calendar</h3>
 	<ul>
-		<li>bookingId (primary key)</li>
-		<li>bookingProfileId (foreign key)</li>
-		<li>bookingDate</li>
-		<li>bookingTime</li>
+		<li>calendarId (primary key)</li>
+		<li>calendarProfileId (foreign key)</li>
+		<li>calendarDatetime</li>
 	</ul>
 		<h3>Appointment</h3>
 	<ul>
 		<li>ProfileId (foreign key)</li>
-		<li>bookingId (foreign key)</li>
-		<li>appointmentDate</li>
-		<li>appointmentTime</li>
+		<li>calendarId (foreign key)</li>
 	</ul>
 
 <h3>Relations</h3>
 <ul>
-	<li>One <strong>Profile</strong> can <strong>Book</strong> Multiple <strong>Appointments.</strong> </li>
-	<li>Multiple <strong>Accounts</strong> can be <strong>Booked</strong> by mulitipule <strong>Profiles.</strong></li>
+	<li>One <strong>Profile</strong> can <strong>Book</strong> One <strong>Appointments.</strong> </li>
+	<li>Multiple <strong>Profiles</strong> can be <strong>Booked</strong> by mulitipule <strong>Profiles.</strong></li>
 </ul>
 
 <a href="https://injoyusalon.com">InJoy U Salon LLC</a><br>
