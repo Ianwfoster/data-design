@@ -33,6 +33,12 @@
 		<li>appointmentTime</li>
 	</ul>
 
+<h3>Relations</h3>
+<ul>
+	<li>One <strong>Profile</strong>can <strong>Book</strong> Multiple <strong>Appointments</strong> </li>
+	<li>Multiple <strong>Accounts</strong> can be <strong>Booked</strong> by mulitipule <strong>Profiles</strong></li>
+</ul>
+
 <a href="https://injoyusalon.com">InJoy U Salon LLC</a><br>
 <a href="index.php">Back Home</a>
 </body>
