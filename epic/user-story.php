@@ -12,7 +12,7 @@
 
 <body>
 <h1>User Story</h1>
-<h2>"As a InJoyU Salon user I can book my appointments on the calender at the InjoyU Salon website!"</h2>
+<h2>"As a InJoyU Salon user I can book my appointments on the calender at the InjoyU website!"</h2>
 <a href="index.php">Back Home</a>
 </body>
 </html>
