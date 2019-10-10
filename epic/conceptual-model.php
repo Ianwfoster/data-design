@@ -11,8 +11,8 @@
 	<h2>Entities & Attributes</h2>
 		<h3>Profile</h3>
 	<ul>
-		<li>ProfileId (primary key)</li>
-		<li>ProfileName</li>
+		<li>profileId (primary key)</li>
+		<li>profileName</li>
 		<li>profileEmail</li>
 		<li>profilePhoneNumber</li>
 	</ul>
