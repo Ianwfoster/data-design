@@ -16,7 +16,7 @@
 	<li>User clicks book now icon</li>
 	<li>Click on an open time in Calender to book appointment</li>
 	<li>Submit anointment</li>
-	<li>User will recieve a confirmation email within 12hrs</li>
+	<li>User will receive a confirmation email within 30 minutes.</li>
 </ul>
 <a href="index.php">Back Home</a>
 </body>
