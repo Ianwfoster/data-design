@@ -19,10 +19,10 @@
 </p>
 
 <ul>
-	<li>Login to InJoy U Salon</li>
-	<li> Sign  up by  entering personal information.</li>
-	<li>User clicks book now icon.</li>
-	<li>Click on an open time in Calender to book appointment.</li>
+	<li>Click on  "Book Now" icon.</li>
+	<li>Click on an open day in Calender to book appointment.</li>
+	<li>Select time a slot that's open.</li>
+	<li></li>
 	<li>Submit anointment.</li>
 	<li>User will receive a confirmation email within 30 minutes.</li>
 </ul>
