@@ -22,7 +22,7 @@
 	<li>Click on  "Book Now" icon.</li>
 	<li>Click on an open day in Calender to book appointment.</li>
 	<li>Select time a slot that's open.</li>
-	<li></li>
+	<li>Enter hairstayle</li>
 	<li>Submit anointment.</li>
 	<li>User will receive a confirmation email within 30 minutes.</li>
 </ul>
