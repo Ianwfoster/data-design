@@ -19,11 +19,12 @@
 </p>
 
 <ul>
-	<li>Click on  "Book Now" icon.</li>
-	<li>Click on an open day in Calender to book appointment.</li>
+	<li>Click on "Book Now" icon.</li>
+	<li>Enter name, cell phone number, and email address.</li>
+	<li>Click on an open day in calender area to book appointment.</li>
 	<li>Select time a slot that's open.</li>
-	<li>Enter hairstayle</li>
-	<li>Submit anointment.</li>
+	<li>Enter hairstyle.</li>
+	<li>Submit appointment.</li>
 	<li>User will receive a confirmation email within 30 minutes.</li>
 </ul>
 
