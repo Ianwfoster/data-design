@@ -8,7 +8,15 @@
 </head>
 
 <body>
-<h1>Interaction Flow</h1>
+<h1>Booking an Appointment</h1>
+
+<p>Example of making an appointment.</p>
+
+<p>Name: Rene</p>
+<p>Pre-Condition: Rene's Customer logged in to InjoyU Salon and signed up as a user<br>
+</p>
+<p> Post-Condition: Rene's Customer makes appointment right from her smart phone.<br>
+</p>
 
 <ul>
 	<li>Login to InJoy U Salon</li>
