@@ -12,7 +12,7 @@
 		<h3>Profile</h3>
 	<ul>
 		<li>ProfileId (primary key)</li>
-		<li>ProfileActivation  (for account verification)</li>
+		<li>ProfileName</li>
 		<li>profileEmail</li>
 		<li>profilePhoneNumber</li>
 	</ul>
