@@ -35,7 +35,6 @@
 	<li>Multiple <strong>Calendar</strong> events can be <strong>Booked</strong> by mulitipule <strong>Profiles.</strong> <strong>(n-to-m)</strong></li>
 </ul>
 
-<img src="https://www.draw.io" alt="coceputal Model">
 
 <a href="index.php">Back Home</a>
 </body>
