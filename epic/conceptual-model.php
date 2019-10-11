@@ -31,8 +31,8 @@
 
 <h3>Relations</h3>
 <ul>
-	<li>One <strong>Profile</strong> can <strong>Book</strong> One <strong>Appointments.</strong> </li>
-	<li>Multiple <strong>Calendar</strong> events can be <strong>Booked</strong> by mulitipule <strong>Profiles.</strong></li>
+	<li>One <strong>Profile</strong> can <strong>Book</strong> One <strong>Appointments.</strong> <strong>(1-to-1)</strong></li>
+	<li>Multiple <strong>Calendar</strong> events can be <strong>Booked</strong> by mulitipule <strong>Profiles.</strong> <strong>(n-to-m)</strong></li>
 </ul>
 
 <img src="https://www.draw.io" alt="coceputal Model">
