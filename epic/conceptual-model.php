@@ -35,7 +35,8 @@
 	<li>Multiple <strong>Calendar</strong> events can be <strong>Booked</strong> by mulitipule <strong>Profiles.</strong></li>
 </ul>
 
-<a href="https://injoyusalon.com">InJoy U Salon LLC</a><br>
+<img src="" alt="Coceputal Model">
+
 <a href="index.php">Back Home</a>
 </body>
 </html>
