@@ -20,19 +20,21 @@
 		<h3>Calendar</h3>
 	<ul>
 		<li>calendarId (primary key)</li>
-		<li>calendarProfileId (foreign key)</li>
-		<li>calendarDatetime</li>
+		<li>calendarSlots</li>
+		<li>calendarDay</li>
+		<li>calendarMonth</li>
+		<li>calendarYear</li>
 	</ul>
 		<h3>Appointment</h3>
 	<ul>
-		<li>profileId (foreign key)</li>
-		<li>calendarId (foreign key)</li>
+		<li>appointmentProfileId (foreign key)</li>
+		<li>appointmentCalendarId (foreign key)</li>
 	</ul>
 
 <h3>Relations</h3>
 <ul>
-	<li>One <strong>Profile</strong> can <strong>Book</strong> One <strong>Appointments.</strong> <strong>(1-to-1)</strong></li>
-	<li>Multiple <strong>Calendar</strong> events can be <strong>Booked</strong> by mulitipule <strong>Profiles.</strong> <strong>(n-to-m)</strong></li>
+	<li>One <strong>Profile</strong> can <strong>Book</strong> multiple <strong>Appointments.</strong> <strong>(1-to-n)</strong></li>
+	<li>Multiple <strong>Appointments</strong> events can be <strong>Booked</strong> by one <strong>Calendar.</strong> <strong>(n-to-1)</strong></li>
 </ul>
 
 <img src="data-design-coceptual-model.drawio-3.png" alt="coceputal Model">
