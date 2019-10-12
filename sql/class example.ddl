@@ -43,7 +43,9 @@ create table articleTag(
 	foreign key(articleTagTagId) references tag(tagId),
 	primary key(articleTagArticleId, articleTagTagId)
 );
-Collapse
+
+Collapsev
+
 
 
 
