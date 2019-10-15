@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
+	<head>
+		<meta charset="UTF-8">
 
 	<title>Data Design</title>
-	<link rel="stylesheet" href="style.css">
-</head>
+		<link rel="stylesheet" href="style.css">
+	</head>
 
 <body>
 	<header>

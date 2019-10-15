@@ -20,15 +20,15 @@
 		<h3>Calendar</h3>
 	<ul>
 		<li>calendarId (primary key)</li>
-		<li>calendarSlots</li>
-		<li>calendarDay</li>
-		<li>calendarMonth</li>
-		<li>calendarYear</li>
+		<li>calendarStylistName</li>
+		<li>calendarStylistSpecialty</li>
+
 	</ul>
 		<h3>Appointment</h3>
 	<ul>
 		<li>appointmentProfileId (foreign key)</li>
 		<li>appointmentCalendarId (foreign key)</li>
+		<li>appointmentDatetime</li>
 	</ul>
 
 <h3>Relations</h3>
