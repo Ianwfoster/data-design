@@ -8,6 +8,7 @@ create table profile(
 	profileId binary(16) not null,
 	profileEmail varchar(128) not null,
 	profileName varchar(32) not null,
+	profilePhoneNumber char(10) not null,
 	primary key(profileId)
 
 );
