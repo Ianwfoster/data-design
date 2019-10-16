@@ -1,50 +1,39 @@
-drop table if exists articleTag;
-drop table if exists article;
-drop table if exists tag;
-drop table if exists author;
+drop table if exists profile;
+drop table if exists calendar;
+drop table if exists appointment;
+
 ​
-create table author(
-	authorId binary(16) not null,
-	authorAvatarUrl varchar(255),
-	authorActivationToken char(32),
-	authorEmail varchar(128) not null,
-	authorHash char(97) not null,
-	authorUsername varchar(32) not null,
-	unique(authorEmail),
-	unique(authorUsername),
-	INDEX(authorEmail),
-	primary key(authorId)
+create table profile(
+	profileId binary(16) not null,
+	profileEmail varchar(128) not null,
+	profileName varchar(32) not null,
+	unique(profileEmail),
+	unique(profileName),
+	INDEX(profileEmail),
+	primary key(profileId)
 );
 ​
 ​
-create table tag(
-	tagId binary(16) not null,
-	tagName varchar(32) not null,
-	primary key(tagId)
-);
-​
-create table article(
-	articleId binary(16) not null,
-	articleAuthorId binary(16) not null,
-	articleContent varchar(40000) not null,
-	articleDate datetime(6) not null,
-	articleImage varchar(255),
-	index(articleAuthorId),
-	foreign key(articleAuthorId) references author(authorId),
-	primary key(articleId)
-);
-​
-create table articleTag(
-	articleTagArticleId binary(16),
-	articleTagTagId binary(16),
-	index(articleTagArticleId),
-	index(articleTagTagId),
-	foreign key(articleTagArticleId) references article(articleId),
-	foreign key(articleTagTagId) references tag(tagId),
-	primary key(articleTagArticleId, articleTagTagId)
+create table calendar(
+	calendarId binary(16) not null,
+	calendarStylistName varchar(32) not null,
+	calendarStylistSpecialty varchar(32)not null,
+	primary key(calendarId)
 );
 
-Collapsev
+	create table appointment(
+	appointmentProfileId binary(16) not null,
+	appointmentCalendarId binary(16) not null,
+	appointmentDatetime datetime(6) not null,
+	index(appointmentProfileId),
+	foreign key(appointmentProfileId) references profile(profileId),
+	primary key(appointmentDatetime)
+);
+​
+
+
+
+
 
 
 
