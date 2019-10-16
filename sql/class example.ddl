@@ -1,11 +1,11 @@
 drop table if exists appointment;
-drop table if exists profile;
 drop table if exists calendar;
+drop table if exists profile;
 
 create table appointment(
 	appointmentProfileId binary(16) not null,
 	appointmentDatetime datetime(6) not null,
-	foreign key(appointmentProfileId)
+	foreign key'(appointmentProfileId)'
 		primary key(appointmentDatetime)
 );
 ​
