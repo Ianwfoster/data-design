@@ -1,5 +1,5 @@
-drop table if exists appointment;
-drop table if exists calendar;
+drop table if exists post;
+drop table if exists user;
 drop table if exists profile;
 
 
@@ -25,6 +25,7 @@ create table calendar(
 
 create table appointment(
 	appointmentId binary(16) not null,
+	appointmentCalendarId binary(16) not null,
 	appointmentProfileId varchar(32),
 	appointmentDatetime datetime(6),
 	primary key(appointmentId),
