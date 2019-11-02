@@ -37,7 +37,7 @@
 		<li>Multiple <strong>Appointments</strong> events can be <strong>Booked</strong> by one <strong>Calendar.</strong> <strong>(n-to-1)</strong></li>
 	</ul>
 
-	<img src="data-design-coceptual-model.drawio-3 (1)-2.png" alt="coceputal Model">
+	<img src="data-design-coceptual-model.drawio-5.png" alt="coceputal Model">
 
 	<a href="index.php">Back Home</a>
 </body>
