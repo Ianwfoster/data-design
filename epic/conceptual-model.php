@@ -26,6 +26,7 @@
 		</ul>
 			<h3>Appointment</h3>
 		<ul>
+			<li>appointmentId</li>
 			<li>appointmentProfileId (foreign key)</li>
 			<li>appointmentCalendarId (foreign key)</li>
 			<li>appointmentDatetime</li>
